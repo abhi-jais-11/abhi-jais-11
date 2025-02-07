@@ -35,8 +35,8 @@ I'm constantly expanding my knowledge to keep up with the latest trends in web d
 
 Here are a few projects that I’ve worked on:
 
-- **[Project Name](GitHub Link)** - Description of the project
-- **[Project Name](GitHub Link)** - Description of the project
+- **[Blog Website ](GitHub Link)** - Description of the project
+- **[Ecommerce Website ](GitHub Link)** - Description of the project
 
 Feel free to check out more on my [GitHub repositories](https://github.com/abhi-jais-11).
 
