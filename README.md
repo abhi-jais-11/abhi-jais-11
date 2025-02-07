@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Abhinav Jaiswal]
 
 🚀 **Full Stack Developer** | 💻 **Open Source Enthusiast** | 🌐 **Web & Backend Wizard**
 
@@ -43,19 +43,38 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 ## 📈 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-jais-11&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-jais-11&layout=compact&theme=radical)
 
 ---
 
 ## 📫 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jais-abhi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhijais0110@gmail.com.com)
 
 ---
 
 ⭐️ **Fun Fact**: I love contributing to open source and exploring new technologies in my free time!
+
+## 🛠️ **Setup/Installation**
+
+To get a local copy of this project up and running, follow these steps:
+
+### Prerequisites
+Make sure you have the following installed on your machine:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (if it's a JavaScript/Next.js project)
+- [Python](https://www.python.org/) (if it's a Django project)
+- [pip](https://pip.pypa.io/en/stable/installation/) (for Python packages)
+- [PostgreSQL](https://www.postgresql.org/) (if your project uses a PostgreSQL database)
+
+### Step 1: Clone the Repository
+Open your terminal and run the following command to clone the repository:
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+
