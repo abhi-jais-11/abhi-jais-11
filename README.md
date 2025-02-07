@@ -60,6 +60,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 ⭐️ **Fun Fact**: I love contributing to open source and exploring new technologies in my free time!
 
+---
+
 ## 🛠️ **Setup/Installation**
 
 To get a local copy of this project up and running, follow these steps:
