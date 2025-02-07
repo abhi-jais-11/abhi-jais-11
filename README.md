@@ -1,4 +1,6 @@
-# 👋 Hi, I'm [Abhinav Jaiswal]!
+#<h2 align="center">
+👋 Hi,<br/> I'm Abhinav Jaiswal
+</h2>
 
 Welcome to my GitHub profile! I'm a passionate web developer and software engineer with a strong foundation in various front-end and back-end technologies. I enjoy building responsive, interactive, and scalable applications. Below is a quick overview of the technologies I work with and love to explore!
 
