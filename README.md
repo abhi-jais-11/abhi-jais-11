@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm  Abhinav Jaiswal </h1> <br/>
+# 👋 Hi, I'm [ Abhinav Jaiswal ]
 🎓 **BTech in Computer Science & Engineering**  
 🚀 **Full Stack Developer** | 💻 **Open Source Enthusiast** | 🌐 **Web & Backend Wizard**
 
