@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and software engine
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-jais-11&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🌱 What I'm Currently Learning
 
