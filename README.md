@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and software engine
 ## 🚀 Technologies & Tools
 
 ### Front-End
-- HTML5
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> <br/>
 - CSS3, SASS (SCSS)
 - JavaScript (ES6+)
 - **React.js**, **Next.js**
