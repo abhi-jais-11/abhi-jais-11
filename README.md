@@ -1,11 +1,13 @@
-#👋 Hi, I'm Abhinav Jaiswal
+# <p align="center" style="font-size: 3em; color: #4CAF50;">👋 Hi, I'm [Your Name]!</p>
 
 Welcome to my GitHub profile! I'm a passionate web developer and software engineer with a strong foundation in various front-end and back-end technologies. I enjoy building responsive, interactive, and scalable applications. Below is a quick overview of the technologies I work with and love to explore!
+
+---
 
 ## 🚀 Technologies & Tools
 
 ### Front-End
-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> <br/>
+- HTML5
 - CSS3, SASS (SCSS)
 - JavaScript (ES6+)
 - **React.js**, **Next.js**
@@ -20,32 +22,49 @@ Welcome to my GitHub profile! I'm a passionate web developer and software engine
 - **Git**
 - **GitHub**
 
+---
+
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-jais-11&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
 
 ## 🌱 What I'm Currently Learning
 
 I'm constantly expanding my knowledge to keep up with the latest trends in web development and software engineering. Right now, I'm diving into:
-- Advanced **JavaScript** 
+- Advanced **JavaScript** and **TypeScript** concepts
 - Server-side rendering with **Next.js**
 - Performance optimization techniques
+
+---
 
 ## 🔥 My Projects
 
 Here are a few projects that I’ve worked on:
 
-- **[Blog Website ](GitHub Link)** - Description of the project
-- **[Ecommerce Website ](GitHub Link)** - Description of the project
+- **[Project Name](GitHub Link)** - Description of the project
+- **[Project Name](GitHub Link)** - Description of the project
 
-Feel free to check out more on my [GitHub repositories](https://github.com/abhi-jais-11).
+Feel free to check out more on my [GitHub repositories](https://github.com/your-github-username).
+
+---
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/jais-abhi/)
-  
-Feel free to reach out to me for collaborations, project ideas, or anything tech-related. I am always happy to help or learn something new!
+<a href="mailto:your-email@example.com">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">📧 Email Me</button>
+</a>
+
+<a href="https://linkedin.com/in/your-profile">
+  <button style="background-color: #0e76a8; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">💼 Connect on LinkedIn</button>
+</a>
+
+<a href="https://twitter.com/your-twitter-handle">
+  <button style="background-color: #1DA1F2; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">🐦 Follow on Twitter</button>
+</a>
+
+---
 
 ## 🛠️ Setup/Installation
 
