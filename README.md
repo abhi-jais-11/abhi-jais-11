@@ -31,9 +31,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 ## 🌟 **Featured Projects**
 
-### [Project Name 1](https://github.com/yourusername/project1)
+### [Portfolio Website ](https://github.com/yourusername/project1)
 📝 **Description**: A brief description of your project.  
-🛠️ **Tech Used**: HTML, CSS, JavaScript, Bootstrap, Django.
+🛠️ **Tech Used**: HTML, CSS, JavaScript, Bootstrap.
 
 ### [Project Name 2](https://github.com/yourusername/project2)
 📝 **Description**: A brief description of your project.  
