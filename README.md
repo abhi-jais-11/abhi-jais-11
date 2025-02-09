@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 ## 🌟 **Featured Projects**
 
-### [Portfolio Website ](https://github.com/yourusername/project1)
-📝 **Description**: A brief description of your project.  
+### [Portfolio Website ](https://github.com/abhi-jais-11/Portfolio-Website)
+📝 **Description**: Portfolio Website ! This is a sleek, modern, and fully responsive portfolio built using the latest web technologies. Whether you're a recruiter, a fellow developer, or just someone curious about my work, this site is designed to showcase my skills, projects, and personality in the best possible way.  
 🛠️ **Tech Used**: HTML, CSS, JavaScript, Bootstrap.
 
 ### [Project Name 2](https://github.com/yourusername/project2)
