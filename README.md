@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 📝 **Description**: Portfolio Website ! This is a sleek, modern, and fully responsive portfolio built using the latest web technologies. Whether you're a recruiter, a fellow developer, or just someone curious about my work, this site is designed to showcase my skills, projects, and personality in the best possible way.  
 🛠️ **Tech Used**: HTML, CSS, JavaScript, Bootstrap.
 
-### [Project Name 2](https://github.com/yourusername/project2)
-📝 **Description**: A brief description of your project.  
-🛠️ **Tech Used**: Next.js, Tailwind CSS, Django REST Framework.
+### [Blog Website ](https://github.com/abhi-jais-11/Blog-Website)
+📝 **Description**: A dynamic and responsive blog website . It allows users to read, create, and manage blog posts with an intuitive and visually appealing interface. The front-end ensures a smooth user experience, while Django handles the back-end, managing content, user authentication, and database interactions. 
+🛠️ **Tech Used**:  HTML, CSS, JavaScript, Bootstrap, Python and Django.
 
 ---
 
