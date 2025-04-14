@@ -40,6 +40,15 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 🛠️ **Tech Used**:  HTML, CSS, JavaScript, Bootstrap, Python and Django.
 
+
+### [Notes App ](https://github.com/abhi-jais-11/Blog-Website)
+📝 **Description**: A responsive and user-friendly notes app where users can create, edit, and delete notes with ease. It also includes user authentication features such as login and register, ensuring a personalized experience for each user. The intuitive interface is backed by Django, which handles all the core functionalities and database management.
+
+🛠️ **Tech Used**:  HTML, CSS, JavaScript, Bootstrap, Python and Django.
+
+
+
+
 ---
 
 ## 📈 **GitHub Stats**
