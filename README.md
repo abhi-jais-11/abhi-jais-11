@@ -31,11 +31,11 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 ## 🌟 **Featured Projects**
 
-### [Portfolio Website ](https://github.com/abhi-jais-11/Portfolio-Website)
+### [Portfolio Website ](https://erabhi.live)
 📝 **Description**: Portfolio Website ! This is a sleek, modern, and fully responsive portfolio built using the latest web technologies. Whether you're a recruiter, a fellow developer, or just someone curious about my work, this site is designed to showcase my skills, projects, and personality in the best possible way.  
 🛠️ **Tech Used**: HTML, CSS, JavaScript, Bootstrap.
 
-### [Blog Website ](https://github.com/abhi-jais-11/Blog-Website)
+### [Blog Website ](https://abhinavjaiswal.pythonanywhere.com/)
 📝 **Description**: A dynamic and responsive blog website . It allows users to read, create, and manage blog posts with an intuitive and visually appealing interface. The front-end ensures a smooth user experience, while Django handles the back-end, managing content, user authentication, and database interactions.
 
 🛠️ **Tech Used**:  HTML, CSS, JavaScript, Bootstrap, Python and Django.
