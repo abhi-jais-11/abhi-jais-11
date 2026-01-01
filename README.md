@@ -35,6 +35,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 📝 **Description**: Portfolio Website ! This is a sleek, modern, and fully responsive portfolio built using the latest web technologies. Whether you're a recruiter, a fellow developer, or just someone curious about my work, this site is designed to showcase my skills, projects, and personality in the best possible way.  
 🛠️ **Tech Used**: HTML, CSS, JavaScript, Bootstrap.
 
+---
+
 ### [Blog Website ](https://abhinavjaiswal.pythonanywhere.com/)
 📝 **Description**: A dynamic and responsive blog website . It allows users to read, create, and manage blog posts with an intuitive and visually appealing interface. The front-end ensures a smooth user experience, while Django handles the back-end, managing content, user authentication, and database interactions.
 
@@ -42,13 +44,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 ---
 
-## 📈 **GitHub Stats**
+### [Templates ](https://github.com/abhi-jais-11/Templates)
+📝 **Description**: A  fully responsive  website template designed for easy content creation and management. This template supports rclean and intuitive interface.
+The front-end focuses on usability and modern design,  efficiently. Ideal for developers looking to quickly launch or customize a project.
+🛠️ **Tech Used**: HTML, CSS, JavaScript, Bootstrap.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-jais-11&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-jais-11&layout=compact&theme=radical)
-
----
+----
 
 ## 📫 **Let's Connect!**
 
