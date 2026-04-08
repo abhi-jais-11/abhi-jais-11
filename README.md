@@ -46,7 +46,9 @@ A full-stack real estate web platform built to manage and showcase property list
 - Secure database handling and backend logic  
 
 🛠️ **Tech Used**:  
-HTML, CSS, JavaScript, Bootstrap, Python, Django, SQLite/MySQL  
+HTML, CSS, JavaScript, Bootstrap, Python, Django, SQLite/MySQL 
+
+---
 
 ### [Portfolio Website ](https://erabhi.live)
 📝 **Description**: Portfolio Website ! This is a sleek, modern, and fully responsive portfolio built using the latest web technologies. Whether you're a recruiter, a fellow developer, or just someone curious about my work, this site is designed to showcase my skills, projects, and personality in the best possible way.  
