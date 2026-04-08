@@ -31,6 +31,23 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 ## 🌟 **Featured Projects**
 
+### [Epic NCR Realty](http://www.epicncrrealty.com)
+
+🏠 **Description**:  
+A full-stack real estate web platform built to manage and showcase property listings across the NCR region. It enables users to explore residential and commercial properties with detailed information including images, pricing, location, amenities, and descriptions. The platform provides a seamless experience for both buyers and agents, with easy navigation and lead generation features.
+
+⚙️ **Key Features**:  
+- Property listings with images, price, location, and amenities  
+- Advanced search & filtering (price, location, property type)  
+- User authentication (Login/Signup)  
+- Inquiry & contact forms for lead generation  
+- Admin dashboard to manage properties and users  
+- Responsive design for mobile and desktop  
+- Secure database handling and backend logic  
+
+🛠️ **Tech Used**:  
+HTML, CSS, JavaScript, Bootstrap, Python, Django, SQLite/MySQL  
+
 ### [Portfolio Website ](https://erabhi.live)
 📝 **Description**: Portfolio Website ! This is a sleek, modern, and fully responsive portfolio built using the latest web technologies. Whether you're a recruiter, a fellow developer, or just someone curious about my work, this site is designed to showcase my skills, projects, and personality in the best possible way.  
 🛠️ **Tech Used**: HTML, CSS, JavaScript, Bootstrap.
